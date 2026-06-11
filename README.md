@@ -10,6 +10,8 @@ A streamlined, fully responsive task management web application designed to help
 
 (https://todo-app-omega-roan.vercel.app/))**
 
+<img width="1920" height="971" alt="Image" src="https://github.com/user-attachments/assets/ddd32b56-009f-4dd4-afec-3b2da46ef132" />
+
 ---
 
 ## 🛠️ Tech Stack & Technologies Used
