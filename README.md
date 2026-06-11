@@ -6,7 +6,7 @@ A streamlined, fully responsive task management web application designed to help
 
 ## 🚀 Live Demo
 
-🔗 **[Click Here to View Live Deployment](Todo-app-omega-roan.vercel.app)**
+🔗 **[Click Here to View Live Deployment]([Todo-app-omega-roan.vercel.app](https://todo-app-omega-roan.vercel.app/))**
 
 ---
 
